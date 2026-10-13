@@ -1,0 +1,26 @@
+city_id,city_name,state,tier,latitude,longitude,launch_date
+C001,Bengaluru,Karnataka,1,12.9716,77.5946,2023-01-15
+C002,Hyderabad,Telangana,1,17.385,78.4867,2023-02-21
+C003,Mumbai,Maharashtra,1,19.076,72.8777,2023-03-30
+C004,Delhi,Delhi,1,28.6139,77.209,2023-05-06
+C005,Pune,Maharashtra,1,18.5204,73.8567,2023-06-12
+C006,Chennai,Tamil Nadu,1,13.0827,80.2707,2023-07-19
+C007,Kolkata,West Bengal,1,22.5726,88.3639,2023-08-25
+C008,Ahmedabad,Gujarat,1,23.0225,72.5714,2023-10-01
+C009,Jaipur,Rajasthan,2,26.9124,75.7873,2023-11-07
+C010,Kochi,Kerala,2,9.9312,76.2673,2023-12-14
+C011,Lucknow,Uttar Pradesh,2,26.8467,80.9462,2024-01-20
+C012,Indore,Madhya Pradesh,2,22.7196,75.8577,2024-02-26
+C013,Coimbatore,Tamil Nadu,2,11.0168,76.9558,2024-04-03
+C014,Nagpur,Maharashtra,2,21.1458,79.0882,2024-05-10
+C015,Visakhapatnam,Andhra Pradesh,2,17.6868,83.2185,2024-06-16
+C016,Bhubaneswar,Odisha,2,20.2961,85.8245,2024-07-23
+C017,Chandigarh,Chandigarh,2,30.7333,76.7794,2024-08-29
+C018,Mysuru,Karnataka,3,12.2958,76.6394,2024-10-05
+C019,Vijayawada,Andhra Pradesh,3,16.5062,80.648,2024-11-11
+C020,Madurai,Tamil Nadu,3,9.9252,78.1198,2024-12-18
+C021,Guwahati,Assam,3,26.1445,91.7362,2025-01-24
+C022,Warangal,Telangana,3,17.9689,79.5941,2025-03-02
+C023,Tirupati,Andhra Pradesh,3,13.6288,79.4192,2025-04-08
+C024,Hubballi,Karnataka,3,15.3647,75.124,2025-05-15
+C025,Shivamogga,Karnataka,3,13.9299,75.5681,2025-06-21
