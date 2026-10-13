@@ -1,6 +1,4 @@
 {
-    "configs":[{"file":"bookings","key":
-["booking_id"]},{"file":"rooms","key":
-["room_id"]},{"file":"hotels","key":
-["hotel_id"]}]
+    "configs":[{"file":"drivers","key":["driver_id"]},
+                {"file":"cities","key":["city_id"]}]
 }
